@@ -155,6 +155,7 @@ Browsers cannot play every stream format (MPEG-TS in particular), so a stream th
 Step-by-step installation guides for each device are in the [iptv-setup-guides](https://github.com/smartvpro-tv/iptv-setup-guides) repository. Country-specific guides:
 
 - United States: [IPTV player installation tutorial](https://smartvpro.com/iptv-player-installation-tutorial-usa-iptv/)
+- United States (new site): [IPTV USA Subscription](https://usa.smartvpro.com/)
 - United Kingdom: [IPTV tutorials](https://smartvpro.co.uk/iptv-tutorials/)
 - Canada: [IPTV setup Canada](https://iptvv-ca.ca/iptv-setup-canada/)
 - Nederland: [IPTV installeren](https://dutchiptvnl.net/iptv-installeren/)
